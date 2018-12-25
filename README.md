@@ -1,5 +1,4 @@
 # KTK: A Tool for Constructing Pairwise Covering Test Suites (Covering Arrays)
-====
 
 ## Overview
 
@@ -63,4 +62,4 @@ This tool is free software under the zlib license.
 
 ## Author
 
-Tatsuhiro Tsuchiya
+[Tatsuhiro Tsuchiya][http://www-ise4.ist.osaka-u.ac.jp/~t-tutiya/en/]
