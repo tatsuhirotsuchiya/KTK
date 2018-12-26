@@ -8,9 +8,9 @@ KTK is a tool for covering arrays which can be used as test suites for all-pairs
 
 This tool implements the algorithm proposed by: 
   
-* Noritaka Kobayashi, Tatsuhiro Tsuchiya, and Tohru Kikuno,
+* [Noritaka Kobayashi, Tatsuhiro Tsuchiya, and Tohru Kikuno,
 A New Method for Constructing Pair-Wise Covering Designs for Software Testing,
-Information Processing Letters, Vol.81, No.2, pp.85-91, January 2002.
+Information Processing Letters, Vol.81, No.2, pp.85-91, January 2002.][https://doi.org/10.1016/S0020-0190(01)00195-8]
 
 The algorithm constructs test suites for pair-wise testing, that is, covering arrays of strength 2, based on an algebraic approach. 
 
