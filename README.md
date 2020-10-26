@@ -2,7 +2,7 @@
 
 ## Overview
 
-KTK is a tool for covering arrays which can be used as test suites for all-pairs testing.
+KTK is a tool for generating covering arrays which can be used as test suites for all-pairs testing.
 
 ## Description
 
@@ -62,4 +62,4 @@ This tool is free software under the zlib license.
 
 ## Author
 
-[Tatsuhiro Tsuchiya][http://www-ise4.ist.osaka-u.ac.jp/~t-tutiya/en/]
+Tatsuhiro Tsuchiya
