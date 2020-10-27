@@ -58,7 +58,7 @@ Here is the output for the above example.
 
 ## Licence
 
-This tool is free software under the zlib license. 
+This tool is free software under the MIT license. 
 
 ## Author
 
